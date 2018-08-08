@@ -1,2 +1,2 @@
-# ethereum-go-docker
+# goether
 Dockerfile for ethereum go client
